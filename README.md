@@ -1,6 +1,5 @@
 # minishell
 
-this project was designed as a shell without using <stdio.h>
 
 1. goal
 
@@ -12,11 +11,12 @@ minishell is a program that
 - interprets it
 - executes a command
 
+this project was designed as a shell without using <stdio.h>
 
 
 2. compile
 
-    gcc shell.c -o shell
+    - gcc shell.c -o shell
 
 
 3. basics
