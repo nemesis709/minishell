@@ -6,7 +6,9 @@ without using <stdio.h>
 1. goal
 
 minishell is a custom Linux shell.
+
 minishell is a program that
-1) takes input from a user
-2) interprets it
-3) executes a command
+
+    - takes input from a user
+    - interprets it
+    - executes a command
